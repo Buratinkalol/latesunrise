@@ -1,0 +1,27 @@
+{
+  "name": "latesunrise",
+  "version": "1.0.0",
+  "description": "All work and no play makes Jack a dull boy (c) The Shining, 1980",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-livereload": "^0.1.2",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Buratinkalol/latesunrise.git"
+  },
+  "author": "Buratinka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Buratinkalol/latesunrise/issues"
+  },
+  "homepage": "https://github.com/Buratinkalol/latesunrise#readme"
+}
