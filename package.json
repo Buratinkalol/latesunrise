@@ -1,0 +1,19 @@
+{
+  "name": "latesunrise",
+  "version": "1.0.0",
+  "description": "project for site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Buratinkalol/latesunrise.git"
+  },
+  "author": "Buratinkalol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Buratinkalol/latesunrise/issues"
+  },
+  "homepage": "https://github.com/Buratinkalol/latesunrise#readme"
+}
